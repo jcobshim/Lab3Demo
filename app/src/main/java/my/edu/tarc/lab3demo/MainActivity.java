@@ -1,6 +1,6 @@
 package my.edu.tarc.lab3demo;
 
-//Created by Jacob S
+//Created by Jacob SSX
 //Date: 23th Oct 2015
 
 import android.support.v7.app.AppCompatActivity;
